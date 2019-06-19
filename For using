@@ -1,0 +1,5 @@
+you must download model to operate this program.
+if you want to download go to -> 
+https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md
+
+and move the file  model-mater/research/objectdetection
